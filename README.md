@@ -6,10 +6,10 @@
 
 🌐 Precisa de alguém que crie soluçoes? Entre em contato:
 <p align="left" >
-  <a href="https://www.linkedin.com/in/marciosenaf/" alt="Linkedin">
+  <a href="https://www.linkedin.com/" alt="Linkedin">
   <img width="90" hspace="3" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="https://wa.me/73998414135" alt="WhatsApp">
+  <a href="https://wa.me/" alt="WhatsApp">
   <img hspace="3" width="110" src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 </p>
 
