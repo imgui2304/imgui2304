@@ -4,6 +4,8 @@
 
 🔧 Frameworks: **React e Express.**
 
+👀 Visite meu site: ** [guilherme-pi.vercel.app]()** 
+
 🌐 Precisa de alguém que crie soluçoes? Entre em contato:
 <p align="left" >
   <a href="https://www.linkedin.com/in/guilherme-aguiar-52a23a247/" alt="Linkedin">
@@ -14,4 +16,4 @@
 </p>
 
 
-**Meu portfolio**: [guilherme-pi.vercel.app]()
+
