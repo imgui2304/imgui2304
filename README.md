@@ -6,7 +6,7 @@
 
 🌐 Precisa de alguém que crie soluçoes? Entre em contato:
 <p align="left" >
-  <a href="https://www.linkedin.com/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/guilherme-aguiar-52a23a247/" alt="Linkedin">
   <img width="90" hspace="3" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
   <a href="https://wa.me/5565984194670" alt="WhatsApp">
