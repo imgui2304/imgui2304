@@ -2,9 +2,15 @@
 
 ⚙️ Linguagens: **Typescript**, Javascript, Python e SQL.
 
-🔧 Frameworks: **React e Express.**
+🔧 Frameworks: **React, Express, React Native e NextJS.**
 
-👀 Visite meu site: **https://guilherme-pi.vercel.app/**
+🎒 Banco de Dados: **Firebase**
+
+📚 Estudando: **NextJS, Prisma, Express, Postgres e FastiFy**
+
+👀 Interese: **MySql, MongoDb**
+
+🖌️ Visite meu site: **https://guilherme-pi.vercel.app/**
 
 🌐 Precisa de alguém que crie soluçoes? Entre em contato:
 <p align="left" >
