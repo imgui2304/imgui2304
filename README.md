@@ -6,9 +6,9 @@
 
 🎒 Banco de Dados: **Firebase**
 
-📚 Estudando: **NextJS, Prisma, Express, Postgres e FastiFy**
+📚 Estudando: **NextJS, Prisma, Express, MySql, e FastiFy**
 
-👀 Interese: **MySql, MongoDb**
+👀 Interese: **Postgres, MongoDb**
 
 🖌️ Visite meu site: **https://guilherme-pi.vercel.app/**
 
